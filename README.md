@@ -1,0 +1,1 @@
+Here is all my ML/AI projects i have done. There are models developed with CRISP-DM methodology and some notebooks with experiments in neural networks and computational intelligence
