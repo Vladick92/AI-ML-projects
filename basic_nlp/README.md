@@ -1,0 +1,1 @@
+In this notebook i have used some basic nlp. Like deleting stopwords and splitting text into tokens. I dot vector interpretation of word, calulated cosine sismilarity between two words and found most similar words to one from text

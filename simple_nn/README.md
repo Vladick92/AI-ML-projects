@@ -1,0 +1,1 @@
+Thats just my first, simple neural network. This nn dont have any practical use, simply my first nn.

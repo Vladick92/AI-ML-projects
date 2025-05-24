@@ -1,0 +1,1 @@
+In this notebook i have used bayesian networks. They allow to build graph that show dependencies and also we can predict some values by running query.

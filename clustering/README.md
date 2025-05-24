@@ -1,0 +1,1 @@
+In this notebook i have experimented with clustering. I choose three models, and also have used PCA for decreasing dimetions of dataset

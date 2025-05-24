@@ -1,0 +1,1 @@
+In this notebook i wanted to use fuzzy sets for finding similar phrases in some data, i have used Soundex and Levenstain distance for calculating similarities.

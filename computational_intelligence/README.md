@@ -1,0 +1,1 @@
+In this project i wanted to use computational intelligince in practice. First of all i used confidence intervals for regression task. Then i examined ensembles like bagging, boosting, stacking. Have turned regression task into classification by dicreting target number column. Also analized what i got after turning regression into classification.
